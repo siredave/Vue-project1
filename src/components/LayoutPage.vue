@@ -6,16 +6,13 @@
         class="h-full w-full object-cover absolute inset-0 z-0"
       />
       <div class="z-20 inset-0 absolute">
-        <div
-          class="w-full h-full flex justify-center items-end pb-14 text-white"
-        >
-          <div
-            class="text-4xl font-bold text-center leading-tight drop-shadow-lg"
-          >
-            Discover a World of
-            <span class="text-green-400">Endless Possibilities</span>
-          </div>
-        </div>
+        <div class="w-full h-full flex justify-center items-end pb-14 text-white">
+  <div class="text-4xl font-bold text-center leading-tight drop-shadow-lg font-poppins animate-fade-in-up">
+    Discover a World of <span class="text-green-400">Endless Possibilities</span>
+  </div>
+</div>
+
+
       </div>
     </div>
 
